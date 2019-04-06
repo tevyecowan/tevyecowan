@@ -61,7 +61,7 @@ button:hover, .btns:hover {
 
 .navContent {
 	display: none;
-	position: absolute;
+	position: inherit;
 	padding: 0.5em;
 	text-align: center;
 	z-index:9;
