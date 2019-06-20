@@ -4,10 +4,10 @@ body {
 	background: white;
 	color:#555;
 	font:0.8em Arial, Helvetica, "bitstream vera sans", sans-serif;
-	padding:20px;
+	padding:100px;
 }
 
-button, .btns {
+/**********button, .btns {
 	outline: none;
 	padding-top: 5px;
 	text-decoration: none;
@@ -16,7 +16,7 @@ button, .btns {
 	color: white;
 	border: thin solid white;
 	height: 30px;
-	width: 100%;
+	width: 50%;
 	border-radius: 2px;
 	transition: 0.5s;
 	padding-bottom: 5px;
