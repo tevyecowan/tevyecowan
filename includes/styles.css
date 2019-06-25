@@ -33,47 +33,20 @@ button:hover, .btns:hover {
 /**********HEADER***********/
 #header {
 	text-align: center;
-	z-index:9;
 	width: 100%;
-
-}
-
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-	position: fixed;
-	top: 0px;
-	width: 100%;
-	padding-right:40px;
 
 }
 
 
 /**********NAVIGATION***********/
-#navigation{
-	display: inline-block;
-	padding-bottom: 50px;
-	z-index:9;
-	float:left;
-	padding-left:20px;
-	padding-top:5px;
-
-}
-
-.navContent {
-	display: none;
-	position: inherit;
-	padding: 0.5em;
-	text-align: center;
-	z-index:9;
-}
-
-#navigation:hover .navContent {
-	display: block;
+#nav {
+	background: white;
 }
 
 /*********************CONTENT**********************/
-#content {
-	padding:50px;
-	z-index:1;
+
+/*********************about**********************/
+#about {
+	padding:100px;
 }
 
